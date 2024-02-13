@@ -1,17 +1,12 @@
 
 # Stock-Index-Prediction-Using-ANN
 
-PYTHON-BASED APPLICATION WITH THE APPROACH AND INFLUENCE OF THE NEURAL NETWORK (NN), AND ARTIFICIAL INTELLIGENCE (AI)  TO PREDICT FUTURE PRICES IN A QUALIFIED AND QUANTIZED WAY WITH HIGH ACCURACY AND CLOSE TO REAL. 
-
+Python-based application with the approach and influence of the Neural Network (NN) and Artificial Intelligence (AI) to predict future prices in a qualified and quantized way with high accuracy and close to real.
 
 Here we using django to create a web application.
 
 
 
-
-# Stock-Index-Prediction-Using-ANN
-
-PYTHON-BASED APPLICATION WITH THE APPROACH AND INFLUENCE OF THE NEURAL NETWORK (NN), AND ARTIFICIAL INTELLIGENCE (AI)  TO PREDICT FUTURE PRICES IN A QUALIFIED AND QUANTIZED WAY WITH HIGH ACCURACY AND CLOSE TO REAL. 
 
 
 Here we using django to create a web application.
