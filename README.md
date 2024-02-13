@@ -9,11 +9,6 @@ Here we using django to create a web application.
 
 
 
-Here we using django to create a web application.
-
-
-
-
 ## Pre-requirements
 
 To run this project, you will need to add the following 
